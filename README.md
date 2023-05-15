@@ -1,4 +1,4 @@
-# hidd3n
+# H!dd3n
 H!dd3n Chrome Extension
 
 Convey messages without being noticed using Zero Width Characters, which are special Unicode characters that do not occupy any visible space and cannot be highlighted. These characters are typically utilized to separate abstract foreign languages, and some websites use them for their user interface.
