@@ -1,6 +1,8 @@
 # H!dd3n
 H!dd3n Chrome Extension
 
+https://chromewebstore.google.com/detail/hdd3n/moofpekmcpdbdahpiijifopcedokbfpi
+
 Convey messages without being noticed using Zero Width Characters, which are special Unicode characters that do not occupy any visible space and cannot be highlighted. These characters are typically utilized to separate abstract foreign languages, and some websites use them for their user interface.
 
 H!dd3n is a Chrome extension, you can encode any message using zero width spaces, abbreviated (ZWSP) and send them to anyone you want without anyone else being able to read them. You can also receive encode messages from other h!dd3n users and decrypt them right in your browser which can be inserted almost anywhere without being seen.
